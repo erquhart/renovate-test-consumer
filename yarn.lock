@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@erquhart/renovate-test-dummy-2@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@erquhart/renovate-test-dummy-2/-/renovate-test-dummy-2-1.0.0.tgz#d45fe305e6e2a2853d05a51fb24bb4dd22d8c23a"
+  integrity sha512-Z9vAfjAS1/CyvIj7+O2VydOOlBI2Amo05o0beokMzWl2k9CCP4tf9qQOtZACJXBLdYWOm4PsFPE1N+bPjMgsJw==
+
 "@erquhart/renovate-test-dummy@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@erquhart/renovate-test-dummy/-/renovate-test-dummy-1.0.1.tgz#f927a23d152a653e44286d532f9d36f7da3ce392"

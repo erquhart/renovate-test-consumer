@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@erquhart/renovate-test-dummy": "^1.0.1"
+    "@erquhart/renovate-test-dummy": "^1.0.1",
+    "@erquhart/renovate-test-dummy-2": "^1.0.0"
   }
 }
