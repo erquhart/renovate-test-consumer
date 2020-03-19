@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "config:base",
+    "schedule:weekly"
+  ],
+  "rangeStrategy": "update-lockfile",
+  "automerge": true,
+  "major": {
+    "automerge": false
+  },
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "packageRules": [
+    {
+      "packagePatterns": ["dummy$"],
+      "schedule": null,
+    }
+  ]
+}
