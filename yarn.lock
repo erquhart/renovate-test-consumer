@@ -3,9 +3,9 @@
 
 
 "@erquhart/renovate-test-dummy-2@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@erquhart/renovate-test-dummy-2/-/renovate-test-dummy-2-1.0.0.tgz#d45fe305e6e2a2853d05a51fb24bb4dd22d8c23a"
-  integrity sha512-Z9vAfjAS1/CyvIj7+O2VydOOlBI2Amo05o0beokMzWl2k9CCP4tf9qQOtZACJXBLdYWOm4PsFPE1N+bPjMgsJw==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@erquhart/renovate-test-dummy-2/-/renovate-test-dummy-2-1.0.2.tgz#e6ca2ec44041ee3d9ad042d1362e61e30bcc1113"
+  integrity sha512-ocT4agWRSNIYkLCTfmw5mLm3VqTGrnqzILvxBtlwFb5N9RHcSyO8orCODoqjk6DU+6tvylklMbjT0HwGHv69Eg==
 
 "@erquhart/renovate-test-dummy@^1.0.1":
   version "1.0.1"
